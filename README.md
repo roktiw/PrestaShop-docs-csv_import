@@ -7,5 +7,6 @@ You want to support me? Buy yourself a Custom Size Plywood Monitor Stand: www.sk
  
 Tested with PrestaShop version 1.7.8.4
 
-## tl;dr
+## How it works
+The column names and order on the left in Excell file will be the same as default order of the PrestaShop importer on the right.
 ![https://raw.githubusercontent.com/roktiw/PrestaShop-docs-csv_import/main/presta-import-combinations.png](https://raw.githubusercontent.com/roktiw/PrestaShop-docs-csv_import/main/presta-import-combinations.png)
